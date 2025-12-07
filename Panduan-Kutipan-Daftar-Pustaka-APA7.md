@@ -687,33 +687,3 @@ c) Jika teks diperpanjang hingga halaman 68, buat kutipan panjang
 
 **Tugas:**
 Susun daftar pustaka dari ketiga sumber di atas dalam format APA 7 yang benar!
-
----
-
-## PENUTUP
-
-Dengan menguasai materi ini, Anda siap untuk:
-
-✅ Membuat kutipan langsung dengan model penulis di depan yang BENAR  
-✅ Membedakan kutipan pendek dan panjang serta formatnya  
-✅ Menyusun daftar pustaka dalam format APA 7 yang konsisten  
-✅ Menjawab soal esai ke-2 UAS dengan percaya diri
-
-**Strategi Belajar:**
-- **Hari 1:** Pelajari BAGIAN 1-3 (kutipan pendek)
-- **Hari 2:** Pelajari BAGIAN 4 (kutipan panjang) + praktik
-- **Hari 3:** Pelajari BAGIAN 5-6 (daftar pustaka) + contoh
-- **Hari 4:** Simulasi soal (BAGIAN 8) + latihan mandiri (BAGIAN 11)
-
-**Saat Ujian:**
-- Bawa 10 referensi yang sudah Anda kumpulkan (seperti catatan Anda, 6 Desember 2025)
-- Gunakan checklist BAGIAN 9 untuk setiap kutipan dan daftar pustaka
-- Manfaatkan open book untuk cross-check format jika ragu
-
-**Semoga sukses untuk Soal 2 UAS Anda! 🎓📚**
-
----
-
-**Referensi:**
-- American Psychological Association. (2020). *Publication Manual of the American Psychological Association* (7th ed.). APA.
-- Zulvarina, P., Susetya, H. H. H., & Tim Dosen BI UB. (2024). *Panduan Penulisan Karya Ilmiah APA 7*. UB Press.
