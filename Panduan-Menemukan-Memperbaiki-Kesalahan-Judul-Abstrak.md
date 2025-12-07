@@ -453,30 +453,7 @@ belajar yang baik adalah kunci kesuksesan akademik.
 
 ---
 
-## PENUTUP
-
-Dengan menggunakan panduan ini, Anda siap untuk:
-
-✓ **Menemukan kesalahan** dengan sistematis dan terstruktur  
-✓ **Memahami jenis kesalahan** (ejaan, tanda baca, huruf kapital, diksi)  
-✓ **Memberikan perbaikan yang tepat** dengan penjelasan yang jelas  
-✓ **Menjawab soal esai UAS** dengan percaya diri
-
-**Keberhasilan Anda tergantung pada:**
-1. Pemahaman mendalam tentang aturan PUEBI
-2. Latihan berkali-kali menemukan kesalahan
-3. Kemampuan memberikan penjelasan yang logis
-
-**Saran Belajar Final:**
-- Latihan 1-2 jam per hari selama 3-4 hari sebelum ujian
-- Setiap kali latihan, catat kesalahan yang Anda buat
-- Pahami pola kesalahan, bukan hanya menghafal contoh
-
-**Semoga Anda sukses dalam UAS Bahasa Indonesia! 💪📚**
-
----
-
 **Disiapkan untuk:** Ujian Akhir Semester (UAS) Bahasa Indonesia  
-**Dosen:** Hemas Haryas Harja Susetya, M.Pd.  
+**Dosen:** Hermas Haryas Harja Susetya, M.Pd.  
 **Universitas:** Brawijaya, Malang  
 **Format:** Open Book (Boleh membawa materi dan catatan)
